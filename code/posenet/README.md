@@ -4,7 +4,18 @@ PoseNet is a machine learning model that allows for Real-time Human Pose Estimat
 
 PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image/video and one version that can detect multiple persons in an image/video.
 
-What can you find in this folder?
+# how Can You Use Posenet in Your Projects
+
+## Runway ML
+
+## ml5js - Friendly Machine Learning for The Web
+
+PoseNet for Installations
+
+I haven't tried this, but seems pretty nice
+https://github.com/oveddan/posenet-for-installations
+
+# What can you find in this folder?
 
 ## p5-poses-osc
 A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posenet to detect poses from the real-time camera image. The positions of the poses is sent via osc to any application capable of receiving osc messages.
