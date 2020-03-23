@@ -1,11 +1,10 @@
+// Posenet part based on an example by Kyle McDonald
 // we need a handle to the socket to send our osc values
 var socket;
 var isConnected;
 let video;
 let poseNet;
 let poses = [];
-
-// make an array of Balls 
 
 
 function setup() {
@@ -51,7 +50,7 @@ function draw() {
 	text('fps: ' + frameRate().toFixed(2),40,60);
 };
 
-// A function to draw ellipses over the detected keypoints
+// A function to draw ellipses over the detected keypoints and to send the osc
 function drawKeypoints()  {
 	// Loop through all the poses detected
 	for (let i = 0; i < poses.length; i++) {
