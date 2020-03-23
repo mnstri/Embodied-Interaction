@@ -26,3 +26,7 @@ A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posene
 
 Currently, the OSC messages are formatted in the following way. This might change in future versions or I might give the user the opportunity to easily change the format in order to support different software.
 
+## More Information
+
+[![ml5.js Pose Estimation with PoseNet](http://img.youtube.com/vi/OIo-DIOkNVg/0.jpg)](http://www.youtube.com/watch?v=OIo-DIOkNVg "ml5.js Pose Estimation with PoseNet")
+
