@@ -17,4 +17,4 @@ A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posene
   `cd path/to/p5js-osc/`  
   `npm install`  
 - Start the p5js-osc bridge
-  `node bridge.js`
+  `node bridge.js`  
