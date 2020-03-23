@@ -13,7 +13,8 @@ A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posene
 
 - Download and install Node.js (LTS is fine) [https://nodejs.org/en/](https://nodejs.org/en/)
 - Clone or download [p5js-osc](https://github.com/genekogan/p5js-osc)
-- In Terminal(Mac) or Command Prompt(Windows):  
+- Install p5js-osc with Terminal (Mac) or Command Prompt (Windows):  
   `cd path/to/p5js-osc/`  
   `npm install`  
+- Start the p5js-osc bridge
   `node bridge.js`
