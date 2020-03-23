@@ -14,14 +14,14 @@ function setup() {
 	// use this to get a correct size for your camera. values depend on your camera.
 	video = createCapture({
 		video: {
-		  width: { min: 640, ideal: 640, max: 1920 },
-		  height: { min: 360, ideal: 360, max: 1080 }
+		  width: { min: 320, ideal: width, max: 1920 },
+		  height: { min: 180, ideal: height, max: 1080 }
 		},
 		audio: false
 	  })
 
-	
-	video.size(width, height);
+
+	//video.size(width, height);
 
 	// Create a new poseNet method with a single detection
 	poseNet = ml5.poseNet(video, modelReady);
@@ -82,7 +82,7 @@ function drawSkeleton() {
 		let partB = skeleton[j][1];
 		stroke(255, 0, 0);
 		line(partA.position.x, partA.position.y, partB.position.x, partB.position.y);
-		
+
 	  }
 	}
   }
@@ -98,7 +98,7 @@ function sendOsc(address, value) {
 function setupOsc(oscPortIn, oscPortOut) {
 	socket = io.connect('http://127.0.0.1:8081', { port: 8081, rememberTransport: false });
 	socket.on('connect', function() {
-		socket.emit('config', {	
+		socket.emit('config', {
 			server: { port: oscPortIn,  host: '127.0.0.1'},
 			client: { port: oscPortOut, host: '127.0.0.1'}
 		});
