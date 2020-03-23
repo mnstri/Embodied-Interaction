@@ -8,9 +8,11 @@ PoseNet can be used to estimate either a single pose or multiple poses, meaning 
 
 ## Runway ML
 
-## ml5js - Friendly Machine Learning for The Web
+## ml5.js - Friendly Machine Learning for The Web
 
-PoseNet for Installations
+ml5.js is a library that implements various machine learning models in a very friendly way. ml5.js works nicely together with p5.js so the easiest way to get started with it is using the p5.js web editor. See the instructions here: https://learn.ml5js.org/docs/#/
+
+## PoseNet for Installations
 
 I haven't tried this, but seems pretty nice
 https://github.com/oveddan/posenet-for-installations
