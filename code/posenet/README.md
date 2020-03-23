@@ -28,5 +28,10 @@ Currently, the OSC messages are formatted in the following way. This might chang
 
 ## More Information
 
+### Posenet Reference
+[https://learn.ml5js.org/docs/#/reference/posenet](https://learn.ml5js.org/docs/#/reference/posenet)
+
+### Examples
 [![ml5.js Pose Estimation with PoseNet](http://img.youtube.com/vi/OIo-DIOkNVg/0.jpg)](http://www.youtube.com/watch?v=OIo-DIOkNVg "ml5.js Pose Estimation with PoseNet")
 
+[![ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork(](http://img.youtube.com/vi/FYgYyq-xqAw/0.jpg)](http://www.youtube.com/watch?v=FYgYyq-xqAw "ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork(")
