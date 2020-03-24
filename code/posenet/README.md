@@ -8,9 +8,17 @@ PoseNet can be used to estimate either a single pose or multiple poses, meaning 
 
 ## Runway ML
 
+https://runwayml.com/
+
+Runway ML is a very nice tool for experimenting with various Machine Learning models. You can even easily connect the output of one model to the input of another.
+
+Unfortunately, unless you have a Linux computer with a very powerful GPU, Runway ML is going to run very slowly.
+
 ## ml5.js - Friendly Machine Learning for The Web
 
 ml5.js is a library that implements various machine learning models in a very friendly way. ml5.js works nicely together with p5.js so the easiest way to get started with it is using the p5.js web editor. See the instructions here: https://learn.ml5js.org/docs/#/
+
+See below for an example application I made using this library.
 
 ## PoseNet for Installations
 
@@ -22,7 +30,7 @@ https://github.com/oveddan/posenet-for-installations
 ## p5-poses-osc
 A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posenet to detect poses from the real-time camera image. The positions of the poses is sent via osc to any application capable of receiving osc messages.
 
-- Port: 8000
+- Port: 12000
 - Dependencies: 
     - [node.js](https://nodejs.org/en/)
     - [p5js-osc](https://github.com/genekogan/p5js-osc)
