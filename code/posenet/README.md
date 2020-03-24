@@ -44,6 +44,7 @@ A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posene
   `npm install`  
 - Start the p5js-osc bridge  
   `node bridge.js`  
+- Download the folder in this repository (p5-poses-osc)
 - Open the p5-poses-osc/index.html in a browser (Chrome seems to be the fastest)
 - Give the browser the permission to use the camera (make sure no other application is using it)
 - Create something that is able to receive the osc messages
