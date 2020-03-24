@@ -10,7 +10,7 @@ There are three different model numbers for the original Kinect. All of them loo
 * 1473 (updated model, might cause some issues in some software)
 * 1517 (Kinect for Windows model, might cause some issues in some software)
 
-The main issue that I have run into with models other than the 1414 is that it does not correctly report the serial number of the device. This is not really an issue in most cases, but if you want to do something where you need to use multiple Kinect sensors with one computer, you might have problems identifying which Kinect is which. There are workarounds for this. You can for example use the serial number of the audio device to differentiate between the devcices.
+The main issue that I have run into with models other than the 1414 is that it does not correctly report the serial number of the device. This is not really an issue in most cases, but if you want to do something where you need to use multiple Kinect sensors with one computer, you might have problems identifying which Kinect is which. There are workarounds for this. You can for example use the serial number of the audio device to differentiate between the devices.
 
 #### Where to get it?
 
@@ -21,7 +21,7 @@ This is the newer version of the Kinect Sensor. Unfortunately, the naming policy
 
 #### Where to get it?
 
-The Kinect V2 has been discontinued, you might be able to find used ones. Also remember to get the 
+The Kinect V2 has been discontinued, you might be able to find used ones. Also remember to get the
 
 ## How to Use It?
 
@@ -45,3 +45,10 @@ The Kinect V2 has been discontinued, you might be able to find used ones. Also r
 ### Quartz Composer
 
 ### Vuo
+
+# Alternatives to the Kinect sensor
+
+* [Intel RealSense](https://github.com/Mnstri/Embodied-Interaction/tree/master/code/intel-realsense)
+* [Azure Kinect](https://azure.microsoft.com/en-in/services/kinect-dk/) (not yet released in Europe)
+* [Webcam + OpenPose](https://github.com/Mnstri/Embodied-Interaction/tree/master/code/posenet)
+* [TVico](https://tvico.io/) (Android Box + Depth Sensor built into one device)
