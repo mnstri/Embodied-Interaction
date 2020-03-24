@@ -1,5 +1,11 @@
 # Kinect
 
+The Kinect was introduced to the world first as Project Natal in 2009. The actual Kinect for Xbox was launched in November 2010. [The first run of this course](https://vimeo.com/user7156154) happened a couple of months after that (then called Bodily Interaction, taught by [Ferhat Şen](https://vimeo.com/ferhatsen).
+
+[![Project Natal](http://img.youtube.com/vi/g_txF7iETX0/0.jpg)](http://www.youtube.com/watch?v=g_txF7iETX0 "Project Natal")
+
+Project Natal/Kinect promised to revolutionize the way we play games. 10 years later the Kinect for Xbox has essentially been completely killed off. However, it did bring a very powerful new tool for artists working with interactive art.
+
 ## Hardware
 
 ### Kinect V1
@@ -61,6 +67,8 @@ An openFrameworks addon that uses the OpenNI user and skeleton tracking.
 
 ### Vuo
 
+Vuo has a built-in node for using the depth and color images from the Kinect. It does not have any built-in support for the user or skeleton tracking. However, Vuo has built-in nodes for receiving data from NI Mate.
+
 ### NI Mate
 https://ni-mate.com/about/
 
@@ -99,6 +107,9 @@ Links:
 # Alternatives to the Kinect sensor
 
 * [Intel RealSense](https://github.com/Mnstri/Embodied-Interaction/tree/master/code/intel-realsense)
-* [Azure Kinect](https://azure.microsoft.com/en-in/services/kinect-dk/) (not yet released in Europe)
+* [Azure Kinect DK](https://azure.microsoft.com/en-in/services/kinect-dk/) (not yet released in Europe)
 * [Webcam + OpenPose](https://github.com/Mnstri/Embodied-Interaction/tree/master/code/posenet)
 * [TVico](https://tvico.io/) (Android Box + Depth Sensor built into one device)
+* [Orbbec sensors](https://orbbec3d.com/)
+
+# Examples
