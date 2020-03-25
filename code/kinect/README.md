@@ -49,6 +49,17 @@ OpenNI is the framework originally developed by [PrimeSense](https://en.wikipedi
 
 ### Processing
 
+#### OpenKinect Library
+https://github.com/shiffman/OpenKinect-for-Processing
+
+Install from the Library Manager. Works with Kinect V1 and V2.
+
+#### SimpleOpenNI Library
+
+A version that works with Processing 3.5.x on Mac
+https://github.com/totovr/SimpleOpenni
+
+
 ### openFrameworks
 
 #### ofxKinect
@@ -59,11 +70,15 @@ This is very useful for situations where you can install the Kinect above the us
 
 #### ofxOpenNI
 
-An openFrameworks addon that uses the OpenNI user and skeleton tracking.
+An openFrameworks addon that uses the OpenNI user and skeleton tracking. Difficult to find a working version for the latest version of openFrameworks.
 
 ### TouchDesigner
 
+Supports receiving all the different image formats from the Kinect V1 and V2 sensors. Built-in support for Skeleton tracking. Windows only for the Kinect TOPs and CHOPs.
+
 ### Quartz Composer
+
+Supports receiving all the different image formats from Kinect V1 using a plugin.
 
 ### Vuo
 
