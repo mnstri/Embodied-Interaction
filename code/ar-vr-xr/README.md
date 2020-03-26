@@ -54,6 +54,8 @@ Or for interactive sound
 # Magic Leap
 https://www.magicleap.com/en-us/magic-leap-1
 
+[![Magic Leap One first look: worth the hype?](http://img.youtube.com/vi/U2XQHLSuETs/0.jpg)](http://www.youtube.com/watch?v=U2XQHLSuETs "Magic Leap One first look: worth the hype?")
+
 [![The Ultimate Home Office Setup on Magic Leap 1](http://img.youtube.com/vi/YkTRGPuMx84/0.jpg)](http://www.youtube.com/watch?v=YkTRGPuMx84 "The Ultimate Home Office Setup on Magic Leap 1")
 
 # HoloLens
