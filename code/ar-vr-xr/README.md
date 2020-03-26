@@ -3,6 +3,7 @@
 ## ARKit
 
 * [ARKit Documentation](https://developer.apple.com/documentation/arkit)
+* [ARKit Videos from Apple](https://developer.apple.com/videos/play/wwdc2019/604/)
 
 ### RealityKit
 
