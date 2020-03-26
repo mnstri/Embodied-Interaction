@@ -1,5 +1,5 @@
 # Pozyx
-
+https://www.pozyx.io/
 
 [![Pozyx indoor positioning demo](http://img.youtube.com/vi/B9qny4G3-r8/0.jpg)](http://www.youtube.com/watch?v=B9qny4G3-r8 "Pozyx indoor positioning demo")
 
@@ -15,3 +15,6 @@
 * [Martin Abfalter & Yen Do: Light and Shadow](https://www.youtube.com/watch?v=yXs1yLqeDog&feature=youtu.be)
 
 ## Resources
+
+* [Pozyx Documentation](https://www.pozyx.io/documentation)
+* [John made a nice OSC server/client for the Pozyx in Processing](https://github.com/delphi1004/PozyxDemo)
