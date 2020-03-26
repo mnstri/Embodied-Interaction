@@ -11,7 +11,7 @@
 
 ## Student Projects
 
-Robbert Groenendijk & Pekka Lammi: Gaze-tracker R&D
-https://robbertgroenendijk.com/?portfolio=gaze-tracker
+* [Robbert Groenendijk & Pekka Lammi: Gaze-tracker R&D](https://robbertgroenendijk.com/?portfolio=gaze-tracker)
+* [Martin Abfalter & Yen Do: Light and Shadow](https://www.youtube.com/watch?v=yXs1yLqeDog&feature=youtu.be)
 
 ## Resources
