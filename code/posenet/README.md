@@ -25,6 +25,9 @@ See below for an example application I made using this library.
 I haven't tried this, but seems pretty nice
 https://github.com/oveddan/posenet-for-installations
 
+It seems that there was some bug that made it crash, Oskar has a fix:
+https://github.com/Havdon/posenet-for-installations
+
 # What can you find in this folder?
 
 ## p5-poses-osc
