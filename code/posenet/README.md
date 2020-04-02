@@ -61,7 +61,7 @@ Currently, the OSC messages are formatted in the following way. This might chang
 Change the format with:
 `let format = 'wekinator'`
 
-| Index of Value | Keypoint  | values |
+| Order of Value | Keypoint  | values |
 | ------------- | ------------- | ------------- |
 | 1-3 | nose  | confidence score, x, y |
 | 4-6| leftEye  | confidence score, x, y  |
