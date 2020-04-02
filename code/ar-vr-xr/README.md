@@ -21,6 +21,14 @@ https://sparkar.facebook.com/ar-studio/
 
 I'm sure you have seen all those Instagram filters. Spark AR Studio is a tool you can use to make them.
 
+## Snapchat Lens Studio
+https://lensstudio.snapchat.com/
+
+Want to make Snapchat filters? This is the tool for you.
+
+You can also use the filters you make in any application that uses your webcam (including Zoom) with Snap Camera. You can also browse and use filters made by other people.
+https://snapcamera.snapchat.com/
+
 ## AR Resources and Examples
 
 * [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit)
