@@ -58,27 +58,12 @@ Currently, the OSC messages are formatted in the following way. This might chang
 
 #### Wekinator Format
 
-* nose
-* leftEye
-* rightEye
-* leftEar
-* rightEar
-* leftShoulder
-* rightShoulder
-* leftElbow
-* rightElbow
-* leftWrist
-* rightWrist
-* leftHip
-* rightHip
-* leftKnee
-* rightKnee
-* leftAnkle
-* rightAnkle
+Change the format with:
+`let format = 'wekinator'`
 
-| Index of Value | Keypoint  | Keypoint |
+| Index of Value | Keypoint  | values |
 | ------------- | ------------- | ------------- |
-| 0-2 | mose  | confidence score, x, y |
+| 0-2 | nose  | confidence score, x, y |
 | 3-5 | leftEye  | confidence score, x, y  |
 | 6-8 | rightEye  | confidence score, x, y  |
 | 9-11 | leftEar  | confidence score, x, y  |
@@ -96,6 +81,10 @@ Currently, the OSC messages are formatted in the following way. This might chang
 | 45-47 | leftAnkle  | confidence score, x, y  |
 | 48-50 | rightAnkle  | confidence score, x, y  |
 
+#### Individual Format
+
+Change the format with:
+`let format = 'individual'`
 
 ## More Information
 
