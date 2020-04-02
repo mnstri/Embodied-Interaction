@@ -56,6 +56,47 @@ A simple example made with p5.js that uses ml5js (https://ml5js.org/) and posene
 
 Currently, the OSC messages are formatted in the following way. This might change in future versions or I might give the user the opportunity to easily change the format in order to support different software.
 
+#### Wekinator Format
+
+* nose
+* leftEye
+* rightEye
+* leftEar
+* rightEar
+* leftShoulder
+* rightShoulder
+* leftElbow
+* rightElbow
+* leftWrist
+* rightWrist
+* leftHip
+* rightHip
+* leftKnee
+* rightKnee
+* leftAnkle
+* rightAnkle
+
+| Index of Value | Keypoint  | Keypoint |
+| ------------- | ------------- | ------------- |
+| 0-2 | mose  | confidence score, x, y |
+| 3-5 | leftEye  | confidence score, x, y  |
+| 6-8 | rightEye  | confidence score, x, y  |
+| 9-11 | leftEar  | confidence score, x, y  |
+| 12-14 | rightEar  | confidence score, x, y  |
+| 15-17 | leftShoulder  | confidence score, x, y  |
+| 18-20 | rightShoulder  | confidence score, x, y  |
+| 21-23 | leftElbowl  | confidence score, x, y  |
+| 24-26 | rightElbow  | confidence score, x, yl  |
+| 27-29 | leftWrist  | confidence score, x, yl  |
+| 30-32 | rightWrist  | confidence score, x, y  |
+| 33-35 | leftHip  | confidence score, x, y  |
+| 36-38 | rightHip  | confidence score, x, y  |
+| 39-41 | leftKnee  | confidence score, x, y  |
+| 42-44  | rightKnee  | confidence score, x, y  |
+| 45-47 | leftAnkle  | confidence score, x, y  |
+| 48-50 | rightAnkle  | confidence score, x, y  |
+
+
 ## More Information
 
 ### Posenet Reference
