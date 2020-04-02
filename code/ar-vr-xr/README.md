@@ -29,6 +29,8 @@ Want to make Snapchat filters? This is the tool for you.
 You can also use the filters you make in any application that uses your webcam (including Zoom) with Snap Camera. You can also browse and use filters made by other people.
 https://snapcamera.snapchat.com/
 
+[snap camera](snapcamera.png)
+
 ## AR Resources and Examples
 
 * [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit)
