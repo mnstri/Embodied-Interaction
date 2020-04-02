@@ -70,7 +70,7 @@ Change the format with:
 | 12-14 | rightEar  | confidence score, x, y  |
 | 15-17 | leftShoulder  | confidence score, x, y  |
 | 18-20 | rightShoulder  | confidence score, x, y  |
-| 21-23 | leftElbowl  | confidence score, x, y  |
+| 21-23 | leftElbow  | confidence score, x, y  |
 | 24-26 | rightElbow  | confidence score, x, yl  |
 | 27-29 | leftWrist  | confidence score, x, yl  |
 | 30-32 | rightWrist  | confidence score, x, y  |
