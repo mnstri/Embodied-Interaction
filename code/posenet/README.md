@@ -63,23 +63,23 @@ Change the format with:
 
 | Index of Value | Keypoint  | values |
 | ------------- | ------------- | ------------- |
-| 0-2 | nose  | confidence score, x, y |
-| 3-5 | leftEye  | confidence score, x, y  |
-| 6-8 | rightEye  | confidence score, x, y  |
-| 9-11 | leftEar  | confidence score, x, y  |
-| 12-14 | rightEar  | confidence score, x, y  |
-| 15-17 | leftShoulder  | confidence score, x, y  |
-| 18-20 | rightShoulder  | confidence score, x, y  |
-| 21-23 | leftElbow  | confidence score, x, y  |
-| 24-26 | rightElbow  | confidence score, x, yl  |
-| 27-29 | leftWrist  | confidence score, x, yl  |
-| 30-32 | rightWrist  | confidence score, x, y  |
-| 33-35 | leftHip  | confidence score, x, y  |
-| 36-38 | rightHip  | confidence score, x, y  |
-| 39-41 | leftKnee  | confidence score, x, y  |
-| 42-44  | rightKnee  | confidence score, x, y  |
-| 45-47 | leftAnkle  | confidence score, x, y  |
-| 48-50 | rightAnkle  | confidence score, x, y  |
+| 1-3 | nose  | confidence score, x, y |
+| 4-6| leftEye  | confidence score, x, y  |
+| 7-9 | rightEye  | confidence score, x, y  |
+| 10-12 | leftEar  | confidence score, x, y  |
+| 13-15 | rightEar  | confidence score, x, y  |
+| 16-18 | leftShoulder  | confidence score, x, y  |
+| 19-21 | rightShoulder  | confidence score, x, y  |
+| 22-24 | leftElbow  | confidence score, x, y  |
+| 25-27 | rightElbow  | confidence score, x, yl  |
+| 28-30 | leftWrist  | confidence score, x, yl  |
+| 31-33 | rightWrist  | confidence score, x, y  |
+| 34-36 | leftHip  | confidence score, x, y  |
+| 37-39 | rightHip  | confidence score, x, y  |
+| 40-42 | leftKnee  | confidence score, x, y  |
+| 43-45  | rightKnee  | confidence score, x, y  |
+| 46-48 | leftAnkle  | confidence score, x, y  |
+| 49-51 | rightAnkle  | confidence score, x, y  |
 
 #### Individual Format
 
